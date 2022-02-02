@@ -2,7 +2,7 @@
 - [x] Setup inicial
 - [x] Criando uma toolbar com Angular Material.
 - [x] Criando o módulo de cursos, configurando o seu roteamento lazy loading.
-<!---- [ ] Customizando as cores do tema do Angular Material, usando a paleta do Material Design.
+- [x] Customizando as cores do tema do Angular Material, usando a paleta do Material Design.
 - [ ] Criando um Material Table e os arquivos necessários para listar cursos.
 - [ ] CSS do Material Table e Criando um Módulo App Material.
 - [ ] Criando um Service no Angular.
