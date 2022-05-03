@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contruindo um CRUD com Angular + Spring Boot
 - [x] Setup inicial
 - [x] Criando uma toolbar com Angular Material.
@@ -22,8 +21,5 @@
 - [ ] Formulário: API Spring: Criar Curso (HTTP POST)
 
 Estudos baseados nas aulas disponibilizadas no [Youtube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY) da [Loaine Groner](https://github.com/loiane).
-<p style="color:gray">(em andamento ...)</p>
-=======
-# crud-angular-spring
-CRUD Angular + Spring
->>>>>>> d3d324af33d31ee966e27aa610584207e6050ff6
+<p>(em andamento ...)</p>
+
