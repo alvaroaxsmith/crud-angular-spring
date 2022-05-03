@@ -1,5 +1,5 @@
 # Contruindo um CRUD com Angular + Spring Boot
-- [x] Setup inicial
+- [x] Setup inicial.
 - [x] Criando uma toolbar com Angular Material.
 - [x] Criando o módulo de cursos, configurando o seu roteamento lazy loading.
 - [x] Customizando as cores do tema do Angular Material, usando a paleta do Material Design.
@@ -14,11 +14,11 @@
 - [ ] Hello World com Spring.
 - [ ] Listar Cursos (API HTTP GET).
 - [ ] Banco de Dados H2 e Conectando o Angular na API Spring.
-- [ ] Update da Versão Angular (ng update) e Spring
-- [ ] Componente de Formulário e Roteamento para criar cursos
-- [ ] Formulário para Criar Cursos
-- [ ] Formulário: Salvando os dados com HTTP POST + tratamento de erros
-- [ ] Formulário: API Spring: Criar Curso (HTTP POST)
+- [ ] Update da Versão Angular (ng update) e Spring.
+- [ ] Componente de Formulário e Roteamento para criar cursos.
+- [ ] Formulário para Criar Cursos.
+- [ ] Formulário: Salvando os dados com HTTP POST + tratamento de erros.
+- [ ] Formulário: API Spring: Criar Curso (HTTP POST).
 
 Estudos baseados nas aulas disponibilizadas no [Youtube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY) da [Loaine Groner](https://github.com/loiane).
 <p>(em andamento ...)</p>
